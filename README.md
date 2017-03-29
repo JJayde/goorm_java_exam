@@ -6,7 +6,7 @@ feature start ide-2
 hotfix start 16.02.17.1
 hotfix start 16.02.17.2sdfsdfsdfsf
 sdfasfasdfsadfsadfsadf
-asdfasdfasdfsdsfdfsddsdfsfdsfㅁㅇㄹㅁㄴㅇㄹㅁsdfsfdfssd
+asdfasdfasdfsdsfdfsddsdfsfdsfsdfsfdfssd
 
 sdfsfsdfdfdfsdfsdfds
 sdfsfdsdfsdfdsfdf
